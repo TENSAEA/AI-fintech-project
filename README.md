@@ -1,3 +1,6 @@
+**Name:** Tensae Aschalew
+**ID:** UGR/3976/17
+
 # AI Fintech Fraud Detection System
 
 A comprehensive Fraud Detection System for financial services, leveraging Machine Learning (Supervised & Unsupervised) and Graph Analytics to identify suspicious transactions and fraud rings. Built with Python and Streamlit.
